@@ -1,13 +1,7 @@
-# 🎮 TANK BATTLE 🎮
+# 🎮 BATTLE CITTY 🎮
 
 ```ascii
-████████╗ █████╗ ███╗   ██╗██╗  ██╗    ██████╗  █████╗ ████████╗████████╗██╗     ███████╗
-╚══██╔══╝██╔══██╗████╗  ██║██║ ██╔╝    ██╔══██╗██╔══██╗╚══██╔══╝╚══██╔══╝██║     ██╔════╝
-    ██║   ███████║██╔██╗ ██║█████╔╝     ██████╔╝███████║   ██║      ██║   ██║     █████╗
-    ██║   ██╔══██║██║╚██╗██║██╔═██╗     ██╔══██╗██╔══██║   ██║      ██║   ██║     ██╔══╝
-    ██║   ██║  ██║██║ ╚████║██║  ██╗    ██████╔╝██║  ██║   ██║      ██║   ███████╗███████╗
-    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚══════╝
-```
+
 
 ## 📑 Tabla de Contenidos
 
@@ -26,7 +20,7 @@
 
 ## 🚀 Introducción
 
-**Tank Battle** es una recreación moderna del clásico juego battle city, donde los jugadores controlan un tanque y navegan por un mapa basado en cuadrículas, destruyendo tanques enemigos mientras evitan ser destruidos. El juego fue desarrollado usando Python y Pygame, con características avanzadas como IA enemiga usando árboles de comportamiento y búsqueda de caminos.
+ battle city, donde los jugadores controlan un tanque y navegan por un mapa basado en cuadrículas, destruyendo tanques enemigos mientras evitan ser destruidos. El juego fue desarrollado usando Python y Pygame, con características avanzadas como IA enemiga usando árboles de comportamiento y búsqueda de caminos.
 
 ## ✨ Características
 
@@ -213,7 +207,7 @@ Clara separación de:
 
 ## 📝 Créditos
 
-- **Desarrollo**: Yuleisy Carmona Vasquez (22-SISN-2-016)
+- **Desarrollo**: Yefry Shephard J 22-SISN-2-020
 - **Materia**: Inteligencia Artificial
 - **Recursos**: Varias fuentes incluidas en la carpeta de assets
 - **Bibliotecas**: Pygame y Pygame-menu
@@ -225,3 +219,4 @@ Clara separación de:
 ## 🎮 ¡Juega y diviértete! 🎮
 
 </div>
+
