@@ -23,8 +23,8 @@ class STRINGS (Enum):
 
     # * Créditos
     CREDITS_TITLE = 'CRÉDITOS'
-    DEVELOPED_BY = 'Yuleisy Carmona Vasquez'
-    MATRICULA = '22-SISN-2-016'
+    DEVELOPED_BY = 'Yefry Shephard J'
+    MATRICULA = '22-SISN-2-020'
     MATERIA= 'Inteligencia Artificial'
 
     # * Menú de Pausa
@@ -62,4 +62,5 @@ class STRINGS (Enum):
     FINAL_SCORE_VICTORY = 'Puntuación Final:'
     TANKS_DESTROYED_VICTORY = 'Tanques Eliminados:'
     CONTINUE_TEXT = 'Presiona ESPACIO para continuar'
+
 
